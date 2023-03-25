@@ -15,8 +15,12 @@ public class MySecondProject {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello again world");
-        System.out.println("Alexander");
+        System.out.println("Morning, Morning, Morning");
+        System.out.println("\thello, have a good day");
+        System.out.println("\t\toh! thank you");
+        System.out.println("- you are great");
+        System.out.println("\t\t this is my pleasure");
+        System.out.println("\t no,..... you are welcome");
     }
     
 }
